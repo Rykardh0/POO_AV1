@@ -20,6 +20,6 @@ class Aluno {
     }
 }
 
-const a = new Aluno("Ricardo Henrique",2510138,18,"Sistemas")
+const a = new Aluno("Ricardo Henrique",2510138,28,"Sistemas")
 a.apresentar();
 a.situacao();

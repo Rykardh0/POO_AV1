@@ -36,7 +36,7 @@ class AlunoFanese extends Pessoa{
     }
 }
 
-const a = new AlunoFanese('Ricardo Henrique',18,2510138,'Sistemas')
+const a = new AlunoFanese('Ricardo Henrique',28,2510138,'Sistemas')
 console.log(a.apresentar())
 console.log(a.estudar('POO'))
 console.log(a.statusCompleto())
